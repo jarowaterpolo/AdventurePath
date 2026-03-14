@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: 511dd26a9ebf3384ba6b7d4a6da13771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -192096599709765896
+    second: totepd_0
+  - first:
+      213: -2544200430050223278
+    second: totepd_1
+  - first:
+      213: 6213384099176896356
+    second: totepd_2
+  - first:
+      213: 2166242179492868820
+    second: totepd_3
+  - first:
+      213: -8667019711867337513
+    second: totepd_4
+  - first:
+      213: 8119661219313944263
+    second: totepd_5
+  - first:
+      213: 5494571482192960903
+    second: totepd_6
+  - first:
+      213: -8320310967468668549
+    second: totepd_7
+  - first:
+      213: 4799180783807415366
+    second: totepd_8
+  - first:
+      213: -3187890696912365402
+    second: totepd_9
+  - first:
+      213: 7239817846773089234
+    second: totepd_10
+  - first:
+      213: -5344307718036045808
+    second: totepd_11
+  - first:
+      213: -7614496488731254122
+    second: totepd_12
+  - first:
+      213: 3492518721591347792
+    second: totepd_13
+  - first:
+      213: -8648078961186599344
+    second: totepd_14
+  - first:
+      213: -7120243315480468353
+    second: totepd_15
+  - first:
+      213: 4816610563293941440
+    second: totepd_16
+  - first:
+      213: 4094611123674229147
+    second: totepd_17
+  - first:
+      213: -600991910823842599
+    second: totepd_18
+  - first:
+      213: -2105807130018558147
+    second: totepd_19
+  - first:
+      213: -4782618908792780503
+    second: totepd_20
+  - first:
+      213: 4292091342873862576
+    second: totepd_21
+  - first:
+      213: 8685320004733694429
+    second: totepd_22
+  - first:
+      213: -1130911028642297081
+    second: totepd_23
+  - first:
+      213: 8793419643073670534
+    second: totepd_24
+  - first:
+      213: 6029774797032235025
+    second: totepd_25
+  - first:
+      213: 8685750567645653519
+    second: totepd_26
+  - first:
+      213: 2695315696814918550
+    second: totepd_27
+  - first:
+      213: -5812499360147753925
+    second: totepd_28
+  - first:
+      213: 4206869908228812735
+    second: totepd_29
+  - first:
+      213: 5497065185106410263
+    second: totepd_30
+  - first:
+      213: 2297358606345592372
+    second: totepd_31
+  - first:
+      213: -2210767686175389491
+    second: totepd_32
+  - first:
+      213: 4545618379292328187
+    second: totepd_33
+  - first:
+      213: 8122508231891704300
+    second: totepd_34
+  - first:
+      213: 9158811483389235928
+    second: totepd_35
+  - first:
+      213: 6072504339411768658
+    second: totepd_36
+  - first:
+      213: -8151275073191195127
+    second: totepd_37
+  - first:
+      213: -210250817679967781
+    second: totepd_38
+  - first:
+      213: 602943527035311084
+    second: totepd_39
+  - first:
+      213: 722526324785560021
+    second: totepd_40
+  - first:
+      213: 816627985281912250
+    second: totepd_41
+  - first:
+      213: 832053186308930544
+    second: totepd_42
+  - first:
+      213: -2666467233004076763
+    second: totepd_43
+  - first:
+      213: 3773845840465483164
+    second: totepd_44
+  - first:
+      213: -4144435099321569516
+    second: totepd_45
+  - first:
+      213: -2729524799895327725
+    second: totepd_46
+  - first:
+      213: 4585466880770116103
+    second: totepd_47
+  - first:
+      213: 8130679155270127835
+    second: totepd_48
+  - first:
+      213: 3537084091262413347
+    second: totepd_49
+  - first:
+      213: -8363817677265965975
+    second: totepd_50
+  - first:
+      213: -8874699665635578025
+    second: totepd_51
+  - first:
+      213: -7642385108162254219
+    second: totepd_52
+  - first:
+      213: -3574737207675804110
+    second: totepd_53
+  - first:
+      213: -2744082187135084558
+    second: totepd_54
+  - first:
+      213: -3934113273325091298
+    second: totepd_55
+  - first:
+      213: -2038394716596563593
+    second: totepd_56
+  - first:
+      213: -5255533592361023342
+    second: totepd_57
+  - first:
+      213: -1233398405336383927
+    second: totepd_58
+  - first:
+      213: -7361377128974991339
+    second: totepd_59
+  - first:
+      213: 6025785626696633173
+    second: totepd_60
+  - first:
+      213: 3244935988907306753
+    second: totepd_61
+  - first:
+      213: -6453102316317627391
+    second: totepd_62
+  - first:
+      213: -5614294712494972018
+    second: totepd_63
+  - first:
+      213: -257112779569790980
+    second: totepd_64
+  - first:
+      213: 1704167811294734827
+    second: totepd_65
+  - first:
+      213: -4661670493399263428
+    second: totepd_66
+  - first:
+      213: 1576209438952740404
+    second: totepd_67
+  - first:
+      213: 1256879469428897316
+    second: totepd_68
+  - first:
+      213: -7915770582747776474
+    second: totepd_69
+  - first:
+      213: -7751625307269759847
+    second: totepd_70
+  - first:
+      213: 9222855300260757657
+    second: totepd_71
+  - first:
+      213: 1702117831209860121
+    second: totepd_72
+  - first:
+      213: 779779720490459084
+    second: totepd_73
+  - first:
+      213: -4359833058270882652
+    second: totepd_74
+  - first:
+      213: -2797421609595503066
+    second: totepd_75
+  - first:
+      213: 3175790459829509854
+    second: totepd_76
+  - first:
+      213: -3596854936890001260
+    second: totepd_77
+  - first:
+      213: 2891261873896022052
+    second: totepd_78
+  - first:
+      213: 2504430624759291278
+    second: totepd_79
+  - first:
+      213: -9193750905762982018
+    second: totepd_80
+  - first:
+      213: -8515178506007201856
+    second: totepd_81
+  - first:
+      213: -2805304817790631145
+    second: totepd_82
+  - first:
+      213: -1794231101929204316
+    second: totepd_83
+  - first:
+      213: 6044954409204498400
+    second: totepd_84
+  - first:
+      213: 6868711874182700672
+    second: totepd_85
+  - first:
+      213: -7455649567481807320
+    second: totepd_86
+  - first:
+      213: 5303030574437778274
+    second: totepd_87
+  - first:
+      213: 6667959998982838640
+    second: totepd_88
+  - first:
+      213: 5501792958661454094
+    second: totepd_89
+  - first:
+      213: -411271195560457550
+    second: totepd_90
+  - first:
+      213: -1564355464872803067
+    second: totepd_91
+  - first:
+      213: -405293060518770507
+    second: totepd_92
+  - first:
+      213: -3452062515349472317
+    second: totepd_93
+  - first:
+      213: 1537562889344038605
+    second: totepd_94
+  - first:
+      213: 5645359816190686274
+    second: totepd_95
+  - first:
+      213: 513995047262800798
+    second: totepd_96
+  - first:
+      213: 8743931487488610018
+    second: totepd_97
+  - first:
+      213: 2912927192481111736
+    second: totepd_98
+  - first:
+      213: 4903385731845792929
+    second: totepd_99
+  - first:
+      213: -6376946810573833298
+    second: totepd_100
+  - first:
+      213: 2605820676580324526
+    second: totepd_101
+  - first:
+      213: 4764636971546512557
+    second: totepd_102
+  - first:
+      213: -7771798628183704420
+    second: totepd_103
+  - first:
+      213: -1230587784890649927
+    second: totepd_104
+  - first:
+      213: -5223553816071861264
+    second: totepd_105
+  - first:
+      213: -8698659542104444275
+    second: totepd_106
+  - first:
+      213: 5493533977419488169
+    second: totepd_107
+  - first:
+      213: -7530991273857058224
+    second: totepd_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totepd_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 358
+        width: 194
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe2dbb0929855df0800000000000000
+      internalID: -192096599709765896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 263
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd579403f21bcd0800000000000000
+      internalID: -2544200430050223278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 253
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467df741bef5a3650800000000000000
+      internalID: 6213384099176896356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f326f8c9001e10800000000000000
+      internalID: 2166242179492868820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c6dced7f88b780800000000000000
+      internalID: -8667019711867337513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 319
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c609b1fbd4dea070800000000000000
+      internalID: 8119661219313944263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 346
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5a1dc6a3a04c40800000000000000
+      internalID: 5494571482192960903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 331
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b794e3b0241588c80800000000000000
+      internalID: -8320310967468668549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_8
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 320
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644c8b7ee7d1a9240800000000000000
+      internalID: 4799180783807415366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 319
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a814c32d4652c3d0800000000000000
+      internalID: -3187890696912365402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 317
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3817339fff87460800000000000000
+      internalID: 7239817846773089234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 319
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0104510227435d5b0800000000000000
+      internalID: -5344307718036045808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692e6bd69cfd35690800000000000000
+      internalID: -7614496488731254122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 321
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a8adbe54be77030800000000000000
+      internalID: 3492518721591347792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 319
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e81f8110adbf780800000000000000
+      internalID: -8648078961186599344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 317
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ef62ed60df2d90800000000000000
+      internalID: -7120243315480468353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 317
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce878ea9c908d240800000000000000
+      internalID: 4816610563293941440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 316
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9927ff6f1bf2d830800000000000000
+      internalID: 4094611123674229147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 316
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc26729a09d8a7f0800000000000000
+      internalID: -600991910823842599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 319
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f42c1829ba6c2e0800000000000000
+      internalID: -2105807130018558147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929075d1179b0adb0800000000000000
+      internalID: -4782618908792780503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 265
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1a68bf552909b30800000000000000
+      internalID: 4292091342873862576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1feba0784788870800000000000000
+      internalID: 8685320004733694429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 265
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b443949623e40f0800000000000000
+      internalID: -1130911028642297081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 265
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d295a6390880a70800000000000000
+      internalID: 8793419643073670534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 266
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a5b41b301ea350800000000000000
+      internalID: 6029774797032235025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 267
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aaa284f1cf98870800000000000000
+      internalID: 8685750567645653519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 268
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b003a885fa76520800000000000000
+      internalID: 2695315696814918550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 269
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34353db0aad55fa0800000000000000
+      internalID: -5812499360147753925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 266
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf224084edc16a30800000000000000
+      internalID: 4206869908228812735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 266
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3f6149af794c40800000000000000
+      internalID: 5497065185106410263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 266
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e5ae40b7bd1ef10800000000000000
+      internalID: 2297358606345592372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 266
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc88a98a086c151e0800000000000000
+      internalID: -2210767686175389491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 265
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0c43e05d7451f30800000000000000
+      internalID: 4545618379292328187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 264
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95717b332f8b070800000000000000
+      internalID: 8122508231891704300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 300
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d21f28c482aa1f70800000000000000
+      internalID: 9158811483389235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 285
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25518afe58ed54450800000000000000
+      internalID: 6072504339411768658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_37
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 267
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e41fb128ad0ee80800000000000000
+      internalID: -8151275073191195127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_38
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 268
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9337acef9051df0800000000000000
+      internalID: -210250817679967781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 269
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce39f8c71f51e5800800000000000000
+      internalID: 602943527035311084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 263
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d936b14ddde60a00800000000000000
+      internalID: 722526324785560021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 271
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0f5073de355b00800000000000000
+      internalID: 816627985281912250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_42
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 278
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbfc2ce6fb0c8b00800000000000000
+      internalID: 832053186308930544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_43
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 279
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c29bdd2ecefad0800000000000000
+      internalID: -2666467233004076763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 218
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d7061cc46f5430800000000000000
+      internalID: 3773845840465483164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 217
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe64e3c320c76c0800000000000000
+      internalID: -4144435099321569516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 218
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cae98f7a7ce1ad0800000000000000
+      internalID: -2729524799895327725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 222
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a0f9d45d9d2af30800000000000000
+      internalID: 4585466880770116103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 184
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09c801d99f5d070800000000000000
+      internalID: 8130679155270127835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa160ad3f361130800000000000000
+      internalID: 3537084091262413347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 215
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ced6cc220cdeb80800000000000000
+      internalID: -8363817677265965975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_51
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 232
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f638d9cabb6d480800000000000000
+      internalID: -8874699665635578025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_52
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 232
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae0473c3bc0f590800000000000000
+      internalID: -7642385108162254219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_53
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 237
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236ac1b037bf36ec0800000000000000
+      internalID: -3574737207675804110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_54
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 240
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f716512acf0be9d0800000000000000
+      internalID: -2744082187135084558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_55
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 135
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e160f4d52d83769c0800000000000000
+      internalID: -3934113273325091298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_56
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 151
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7719a3d1eca26b3e0800000000000000
+      internalID: -2038394716596563593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 173
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984032fa089017b0800000000000000
+      internalID: -5255533592361023342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_58
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 173
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e34676fa612eee0800000000000000
+      internalID: -1233398405336383927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 221
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510c2c1e08227d990800000000000000
+      internalID: -7361377128974991339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_60
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b48ebf914ef9350800000000000000
+      internalID: 6025785626696633173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_61
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 186
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f63b9e614580d20800000000000000
+      internalID: 3244935988907306753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c23a022a9f176a0800000000000000
+      internalID: -6453102316317627391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83226d64b40612b0800000000000000
+      internalID: -5614294712494972018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff778a0a4d8e6cf0800000000000000
+      internalID: -257112779569790980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 169
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a0e5689b66a710800000000000000
+      internalID: 1704167811294734827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 197
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375405826b6e4fb0800000000000000
+      internalID: -4661670493399263428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_67
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 176
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43655643222dfd510800000000000000
+      internalID: 1576209438952740404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 178
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4267accd735517110800000000000000
+      internalID: 1256879469428897316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_69
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 178
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62af4d33898852290800000000000000
+      internalID: -7915770582747776474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cf1485ad1bc6490800000000000000
+      internalID: -7751625307269759847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 177
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9900fd2e70a2eff70800000000000000
+      internalID: 9222855300260757657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_72
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 47
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3f1736232f9710800000000000000
+      internalID: 1702117831209860121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 52
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf13ea368552da00800000000000000
+      internalID: 779779720490459084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_74
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 156
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a452c1dee2ce73c0800000000000000
+      internalID: -4359833058270882652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_75
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62efe011edf8d29d0800000000000000
+      internalID: -2797421609595503066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_76
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 154
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede563fd89ca21c20800000000000000
+      internalID: 3175790459829509854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_77
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 132
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498bf0aed77651ec0800000000000000
+      internalID: -3596854936890001260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_78
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 155
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420e3321b53df1820800000000000000
+      internalID: 2891261873896022052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_79
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 45
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d1369526681c220800000000000000
+      internalID: 2504430624759291278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e775294034c396080800000000000000
+      internalID: -9193750905762982018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_81
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7366e934204d980800000000000000
+      internalID: -8515178506007201856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_82
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 122
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713c5e0a12e8119d0800000000000000
+      internalID: -2805304817790631145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_83
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 43
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55d8ca15c9917e0800000000000000
+      internalID: -1794231101929204316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_84
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 122
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb014f10ef3e350800000000000000
+      internalID: 6044954409204498400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_85
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 117
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eda2dbe01925f50800000000000000
+      internalID: 6868711874182700672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_86
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 7
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eb3785836388890800000000000000
+      internalID: -7455649567481807320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_87
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 30
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2634666f536289940800000000000000
+      internalID: 5303030574437778274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_88
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 68
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d2eb6a4a598c50800000000000000
+      internalID: 6667959998982838640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e2c0db8b4a5c40800000000000000
+      internalID: 5501792958661454094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_90
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac442d60fda4af0800000000000000
+      internalID: -411271195560457550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c0d53efa4a4ae0800000000000000
+      internalID: -1564355464872803067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_92
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b809d9db1c106af0800000000000000
+      internalID: -405293060518770507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb372e9e6fc710d0800000000000000
+      internalID: -3452062515349472317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_94
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6bc2f2d45865510800000000000000
+      internalID: 1537562889344038605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 129
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2447f49a7d8585e40800000000000000
+      internalID: 5645359816190686274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_96
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc860b5c3122700800000000000000
+      internalID: 513995047262800798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_97
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8c1c4c5fa85970800000000000000
+      internalID: 8743931487488610018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_98
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be996429dbcc6820800000000000000
+      internalID: 2912927192481111736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_99
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 7
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4236708535c0440800000000000000
+      internalID: 4903385731845792929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_100
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 4
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabbf2c89a88087a0800000000000000
+      internalID: -6376946810573833298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_101
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea430ff591cb92420800000000000000
+      internalID: 2605820676580324526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_102
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac09bcd4146f1240800000000000000
+      internalID: 4764636971546512557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_103
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 5
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cfd3d0356052490800000000000000
+      internalID: -7771798628183704420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_104
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 10
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b278a8fde21ceee0800000000000000
+      internalID: -1230587784890649927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_105
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb86e7da753287b0800000000000000
+      internalID: -5223553816071861264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_106
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 5
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827dc2eb37284780800000000000000
+      internalID: -8698659542104444275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_107
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab90a5eb04fc3c40800000000000000
+      internalID: 5493533977419488169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totepd_108
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 7
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05afe2b565b8c7790800000000000000
+      internalID: -7530991273857058224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      totepd_0: -192096599709765896
+      totepd_1: -2544200430050223278
+      totepd_10: 7239817846773089234
+      totepd_100: -6376946810573833298
+      totepd_101: 2605820676580324526
+      totepd_102: 4764636971546512557
+      totepd_103: -7771798628183704420
+      totepd_104: -1230587784890649927
+      totepd_105: -5223553816071861264
+      totepd_106: -8698659542104444275
+      totepd_107: 5493533977419488169
+      totepd_108: -7530991273857058224
+      totepd_11: -5344307718036045808
+      totepd_12: -7614496488731254122
+      totepd_13: 3492518721591347792
+      totepd_14: -8648078961186599344
+      totepd_15: -7120243315480468353
+      totepd_16: 4816610563293941440
+      totepd_17: 4094611123674229147
+      totepd_18: -600991910823842599
+      totepd_19: -2105807130018558147
+      totepd_2: 6213384099176896356
+      totepd_20: -4782618908792780503
+      totepd_21: 4292091342873862576
+      totepd_22: 8685320004733694429
+      totepd_23: -1130911028642297081
+      totepd_24: 8793419643073670534
+      totepd_25: 6029774797032235025
+      totepd_26: 8685750567645653519
+      totepd_27: 2695315696814918550
+      totepd_28: -5812499360147753925
+      totepd_29: 4206869908228812735
+      totepd_3: 2166242179492868820
+      totepd_30: 5497065185106410263
+      totepd_31: 2297358606345592372
+      totepd_32: -2210767686175389491
+      totepd_33: 4545618379292328187
+      totepd_34: 8122508231891704300
+      totepd_35: 9158811483389235928
+      totepd_36: 6072504339411768658
+      totepd_37: -8151275073191195127
+      totepd_38: -210250817679967781
+      totepd_39: 602943527035311084
+      totepd_4: -8667019711867337513
+      totepd_40: 722526324785560021
+      totepd_41: 816627985281912250
+      totepd_42: 832053186308930544
+      totepd_43: -2666467233004076763
+      totepd_44: 3773845840465483164
+      totepd_45: -4144435099321569516
+      totepd_46: -2729524799895327725
+      totepd_47: 4585466880770116103
+      totepd_48: 8130679155270127835
+      totepd_49: 3537084091262413347
+      totepd_5: 8119661219313944263
+      totepd_50: -8363817677265965975
+      totepd_51: -8874699665635578025
+      totepd_52: -7642385108162254219
+      totepd_53: -3574737207675804110
+      totepd_54: -2744082187135084558
+      totepd_55: -3934113273325091298
+      totepd_56: -2038394716596563593
+      totepd_57: -5255533592361023342
+      totepd_58: -1233398405336383927
+      totepd_59: -7361377128974991339
+      totepd_6: 5494571482192960903
+      totepd_60: 6025785626696633173
+      totepd_61: 3244935988907306753
+      totepd_62: -6453102316317627391
+      totepd_63: -5614294712494972018
+      totepd_64: -257112779569790980
+      totepd_65: 1704167811294734827
+      totepd_66: -4661670493399263428
+      totepd_67: 1576209438952740404
+      totepd_68: 1256879469428897316
+      totepd_69: -7915770582747776474
+      totepd_7: -8320310967468668549
+      totepd_70: -7751625307269759847
+      totepd_71: 9222855300260757657
+      totepd_72: 1702117831209860121
+      totepd_73: 779779720490459084
+      totepd_74: -4359833058270882652
+      totepd_75: -2797421609595503066
+      totepd_76: 3175790459829509854
+      totepd_77: -3596854936890001260
+      totepd_78: 2891261873896022052
+      totepd_79: 2504430624759291278
+      totepd_8: 4799180783807415366
+      totepd_80: -9193750905762982018
+      totepd_81: -8515178506007201856
+      totepd_82: -2805304817790631145
+      totepd_83: -1794231101929204316
+      totepd_84: 6044954409204498400
+      totepd_85: 6868711874182700672
+      totepd_86: -7455649567481807320
+      totepd_87: 5303030574437778274
+      totepd_88: 6667959998982838640
+      totepd_89: 5501792958661454094
+      totepd_9: -3187890696912365402
+      totepd_90: -411271195560457550
+      totepd_91: -1564355464872803067
+      totepd_92: -405293060518770507
+      totepd_93: -3452062515349472317
+      totepd_94: 1537562889344038605
+      totepd_95: 5645359816190686274
+      totepd_96: 513995047262800798
+      totepd_97: 8743931487488610018
+      totepd_98: 2912927192481111736
+      totepd_99: 4903385731845792929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

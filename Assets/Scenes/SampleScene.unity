@@ -241,6 +241,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 21024529}
   m_CullTransparentMesh: 1
+--- !u!1 &39824408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 39824409}
+  - component: {fileID: 39824410}
+  m_Layer: 0
+  m_Name: UpgradesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &39824409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 39824408}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 496603205}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &39824410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 39824408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d4e5571d7537a49986d8e0414589dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 1491840209}
 --- !u!1 &51646498
 GameObject:
   m_ObjectHideFlags: 0
@@ -1398,8 +1443,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: Up5
         m_Mode: 1
         m_Arguments:
@@ -1878,8 +1923,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: GemUp3
         m_Mode: 1
         m_Arguments:
@@ -2360,8 +2405,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: Up2
         m_Mode: 1
         m_Arguments:
@@ -2651,6 +2696,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1491840208}
+  - {fileID: 39824409}
   - {fileID: 2078236331}
   - {fileID: 103799086}
   m_Father: {fileID: 519420032}
@@ -2999,8 +3045,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: Up4
         m_Mode: 1
         m_Arguments:
@@ -4523,8 +4569,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: GemUp2
         m_Mode: 1
         m_Arguments:
@@ -5072,8 +5118,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: GemUp1
         m_Mode: 1
         m_Arguments:
@@ -5416,8 +5462,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: GemUp4
         m_Mode: 1
         m_Arguments:
@@ -7957,8 +8003,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: GemUp5
         m_Mode: 1
         m_Arguments:
@@ -8424,13 +8470,6 @@ MonoBehaviour:
   - {fileID: 1407578813}
   - {fileID: 1972445697}
   Hand: {fileID: 2050594845}
-  silver: {fileID: 1686203306}
-  gold: {fileID: 636786918}
-  RunGem: {fileID: 2053086405}
-  StartGem: {fileID: 230613018}
-  UpgradesGem: {fileID: 137293092}
-  UpgradesSilver: {fileID: 618303215}
-  UpgradesGold: {fileID: 632310569}
   CurrencyTexts:
   - {fileID: 1686203306}
   - {fileID: 636786918}
@@ -10456,8 +10495,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: Up1
         m_Mode: 1
         m_Arguments:
@@ -11323,8 +11362,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1491840209}
-        m_TargetAssemblyTypeName: Controller, Assembly-CSharp
+      - m_Target: {fileID: 39824410}
+        m_TargetAssemblyTypeName: Upgrades, Assembly-CSharp
         m_MethodName: Up3
         m_Mode: 1
         m_Arguments:

@@ -3,6 +3,7 @@ using System.Linq;
 using System.Xml.Serialization;
 using TMPro;
 using UnityEditor;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -148,9 +149,9 @@ public class Controller : MonoBehaviour
             if (data.enemyhp <= 0)
             {
                 //random ranges are random numbers between x and x-1 so always put it 1 higher than you want the second value
-                data.silver += Random.Range(7, 13) * 6 + 10;
-                data.gold += Random.Range(2, 7) * Random.Range(2, 7);
-                data.gem += (Random.Range(1, 3) * Random.Range(0, 3) * Random.Range(0, 3)) + 1 * Random.Range(0,2) + 1 * Random.Range(0, 2) + 1 * Random.Range(0, 2);
+                data.silver += Mathf.Round(Random.Range(7 + data.Stage, 13 + data.Stage) * 6 + 10 + data.Stage);
+                data.gold += Mathf.Round(Random.Range(2, 7) * Random.Range(2, 7) + data.Stage * Random.Range(2, 7));
+                data.gem += Mathf.Round(Random.Range(1, 3) * Random.Range(0, 3) * Random.Range(0, 3) + data.Stage * Random.Range(0,2) + data.Stage * Random.Range(0, 2) + data.Stage * Random.Range(0, 2));
 
                 navigator.ToInRunUpgrades();
 
@@ -213,6 +214,9 @@ public class Controller : MonoBehaviour
     public void FightStatReset()
     {
         data.RunStart = 1;
+
+        //stage 
+        data.Stage++;
 
         //player cards
         data.Pslash = 5 + data.PslashUPgem + data.PslashUPrun;
@@ -321,9 +325,6 @@ public class Controller : MonoBehaviour
         // Optionally call TurnBack here if needed
         TurnBack();
     }
-
-
-
     public void TurnBack()
     {
         data.TurnToggle = 0;
@@ -331,7 +332,6 @@ public class Controller : MonoBehaviour
         data.actions_left = data.max_actions;
         UpdateAction();
     }
-
     public void AddCardToHandRandom()
     {
         // Check if there are already 3 cards in hand. If so, we do nothing
@@ -364,7 +364,6 @@ public class Controller : MonoBehaviour
     }
 
     private int cardIndex = 0; // Index to cycle through cards
-
     public void AddCardToHandOrder()
     {
         // Check if there are already 3 cards in hand. If so, we do nothing
@@ -408,9 +407,6 @@ public class Controller : MonoBehaviour
             cardIndex = (cardIndex + 1) % cardOrder.Length; // Reset to 0 when reaching the end of the cycle
         }
     }
-
-
-
     public void Slash(GameObject card)
     {
         if (data.actions_left >= 1)
@@ -439,7 +435,6 @@ public class Controller : MonoBehaviour
             Debug.Log("No actions left!");
         }
     }
-
     public void Protect(GameObject card)
     {
         if (data.actions_left >= 1)
@@ -454,7 +449,6 @@ public class Controller : MonoBehaviour
             Debug.Log("No actions left!");
         }
     }
-
     public void ApplyPoison(GameObject card)
     {
         if (data.actions_left >= 1)
@@ -469,9 +463,6 @@ public class Controller : MonoBehaviour
             Debug.Log("No actions left!");
         }
     }
-
-
-
     public void Currency()
     {
         foreach (var text in CurrencyTexts)
@@ -499,27 +490,23 @@ public class Controller : MonoBehaviour
             }
         }
     }
-
     public void PlayerPoisonEffect()
     {
         data.playerhp -= data.player_poison;
         data.player_poison -= 1;
         UpdateStatsTexts();
     }
-
     public void EnemyPoisonEffect()
     {
         data.enemyhp -= data.enemy_poison;
         data.enemy_poison -= 1;
         UpdateStatsTexts();
     }
-
     public void Gemtest()
     {
         data.gem += (Random.Range(0, 2) * Random.Range(0, 2) * Random.Range(0, 2)) + 1 * Random.Range(0, 1) + 1 * Random.Range(0, 1) + 1 * Random.Range(0, 1);
         Currency();
     }
-
     public void UpdateCardTexts()
     {
         foreach (Transform card in Hand.transform)
@@ -546,88 +533,6 @@ public class Controller : MonoBehaviour
             }
         }
     }
-
-
-    public void GemUp1()
-    {
-        if (data.gem >= 1)
-        {
-            data.gem -= 1;
-            data.PslashUPgem += 1;
-            Currency();
-            UpdateCardTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void GemUp2()
-    {
-        if (data.gem >= 1)
-        {
-            data.gem -= 1;
-            data.PdefUPgem += 1;
-            Currency();
-            UpdateCardTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void GemUp3()
-    {
-        if (data.gem >= 1)
-        {
-            data.gem -= 1;
-            data.PpsnUPgem += 1;
-            Currency();
-            UpdateCardTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void GemUp4()
-    {
-        if (data.gem >= 5)
-        {
-            data.gem -= 5;
-            data.playermaxhpUP += 10;
-            Currency();
-            UpdateStatsTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void GemUp5()
-    {
-        if (data.gem >= 10)
-        {
-            data.gem -= 10;
-            data.max_actionsUP += 1;
-            Currency();
-            UpdateAction();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
     public void ReplaceUsedCard(GameObject card)
     {
         if (data.actions_left > 0)
@@ -651,8 +556,6 @@ public class Controller : MonoBehaviour
         }
         
     }
-
-
     public void HandleCardUse(GameObject card)
     {
         if (card == null) return;
@@ -665,109 +568,4 @@ public class Controller : MonoBehaviour
         // Replace the used card after using it
         ReplaceUsedCard(card);  // Add this line to replace the used card
     }
-
-    public void Up1()
-    {
-        if (data.silver >= 100 || data.gold >= 10)
-        {
-            if (data.silver >= 100)
-            {
-                data.silver -= 100;
-                data.PslashUPrun += 1;
-            }
-            else if (data.gold >= 10)
-            {
-                data.gold -= 10;
-                data.PslashUPrun += 1;
-            }
-            Currency();
-            UpdateCardTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void Up2()
-    {
-        if (data.silver >= 100 || data.gold >= 10)
-        {
-            if (data.silver >= 100)
-            {
-                data.silver -= 100;
-                data.PdefUPrun += 1;
-            }
-            else if (data.gold >= 10)
-            {
-                data.gold -= 10;
-                data.PdefUPrun += 1;
-            }
-            Currency();
-            UpdateCardTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void Up3()
-    {
-        if (data.silver >= 100 || data.gold >= 10)
-        {
-            if (data.silver >= 100)
-            {
-                data.silver -= 100;
-                data.PpsnUPrun += 1;
-            }
-            else if (data.gold >= 10)
-            {
-                data.gold -= 10;
-                data.PpsnUPrun += 1;
-            }
-            Currency();
-            UpdateCardTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void Up4()
-    {
-        if (data.silver >= 100)
-        {
-            data.silver -= 100;
-            data.playermaxhpUP += 10;
-            Currency();
-            UpdateStatsTexts();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
-    public void Up5()
-    {
-        if (data.gold >= 100)
-        {
-            data.gold -= 100;
-            data.max_actionsUP += 1;
-            Currency();
-            UpdateAction();
-        }
-        else
-        {
-            //editing text for currency
-            Debug.Log("not enough currency");
-        }
-    }
-
 }

@@ -6,21 +6,29 @@ public class Data
 
     // Data fields
     public double RunStart;
+    //actions
     public double max_actions;
     public double actions_left;
+    //player stats
     public double playermaxhp;
     public double playerhp;
     public double playershield;
-    public double enemyshield;
+    public double player_poison;
+    //enemy stats
     public double enemymaxhp;
     public double enemyhp;
-    public double player_poison;
+    public double enemyshield;
     public double enemy_poison;
-    public double TurnToggle;
+
     public double enemySlashAct;
     public double enemySlash;
+
+    public double TurnToggle;
     public double CardsInHand;
     public double Activate;
+
+    //stage
+    public float Stage;
 
     //currencys
     public double silver;
@@ -75,6 +83,9 @@ public class Data
         enemySlash = 5;
         CardsInHand = 0;
         Activate = 0;
+        
+        //Stage
+        Stage = 1;
 
         //currencys
         silver = 0;

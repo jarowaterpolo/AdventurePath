@@ -8462,9 +8462,9 @@ MonoBehaviour:
   EnemyActionCanvas: {fileID: 832795830}
   EnemyActionText: {fileID: 363558026}
   Cards:
-  - {fileID: 7712471854519092178, guid: 9d73e9a884b3f8347b854a1487801ef7, type: 3}
-  - {fileID: 8447991183326683079, guid: 02d7a40a7e72fea40b2adb2a5bc13756, type: 3}
-  - {fileID: 6408683309382085012, guid: 3df5349200cabb34d99b95a159f9493e, type: 3}
+  - {fileID: 1077342531178684171, guid: 1ebb5b4f8daee4f49b35fb998ffef9fa, type: 3}
+  - {fileID: 5398592235121903657, guid: caef6864b10872e4bae4f24c72e6fac8, type: 3}
+  - {fileID: 8459644804478362818, guid: be1d1fa93378eb0489c4cbb3b2879a8e, type: 3}
   EnemyActions:
   - {fileID: 16119186}
   - {fileID: 1407578813}

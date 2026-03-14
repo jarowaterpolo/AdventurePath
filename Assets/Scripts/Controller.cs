@@ -345,16 +345,11 @@ public class Controller : MonoBehaviour
         GameObject newCard = Instantiate(randomCard, Hand.transform); // Add the card to the hand
         newCard.name = randomCard.name;
 
-        // Assign button functionality to the new card
-        Transform useCardTransform = newCard.transform.Find("UseCard");
-        if (useCardTransform != null)
+        Button cardButton = newCard.GetComponent<Button>();
+        if (cardButton != null)
         {
-            Button cardButton = useCardTransform.GetComponent<Button>();
-            if (cardButton != null)
-            {
-                cardButton.onClick.RemoveAllListeners();
-                cardButton.onClick.AddListener(() => HandleCardUse(newCard)); // Use the specific card instance
-            }
+            cardButton.onClick.RemoveAllListeners();
+            cardButton.onClick.AddListener(() => HandleCardUse(newCard)); // Use the specific card instance
         }
 
         data.CardsInHand += 1; // Increment the card count
@@ -379,23 +374,18 @@ public class Controller : MonoBehaviour
         string nextCardName = cardOrder[cardIndex]; // Cycle through the cardOrder array
 
         // Find the card with the corresponding name
-        GameObject nextCard = Cards.FirstOrDefault(card => card.name == nextCardName);
+        GameObject nextCard = Cards.FirstOrDefault(card => card.name.Contains(nextCardName));
 
         if (nextCard != null)
         {
             GameObject newCard = Instantiate(nextCard, Hand.transform); // Add the card to the hand
             newCard.name = nextCard.name;
 
-            // Assign button functionality to the new card
-            Transform useCardTransform = newCard.transform.Find("UseCard");
-            if (useCardTransform != null)
+            Button cardButton = newCard.GetComponent<Button>();
+            if (cardButton != null)
             {
-                Button cardButton = useCardTransform.GetComponent<Button>();
-                if (cardButton != null)
-                {
-                    cardButton.onClick.RemoveAllListeners();
-                    cardButton.onClick.AddListener(() => HandleCardUse(newCard)); // Use the specific card instance
-                }
+                cardButton.onClick.RemoveAllListeners();
+                cardButton.onClick.AddListener(() => HandleCardUse(newCard)); // Use the specific card instance
             }
 
             data.CardsInHand += 1; // Increment the card count
@@ -513,19 +503,19 @@ public class Controller : MonoBehaviour
         {
             TMP_Text textComponent = null;
 
-            if (card.name == "Slash")
+            if (card.name.Contains("Slash"))
             {
                 textComponent = card.Find("DMGText")?.GetComponent<TMP_Text>();
                 if (textComponent != null)
                     textComponent.text = (5 + data.PslashUPgem + data.PslashUPrun) + " DMG";
             }
-            else if (card.name == "Protect")
+            else if (card.name.Contains("Protect"))
             {
                 textComponent = card.Find("SHIELDText")?.GetComponent<TMP_Text>();
                 if (textComponent != null)
                     textComponent.text = (5 + data.PdefUPgem + data.PdefUPrun) + " DEF";
             }
-            else if (card.name == "Apply_Poison")
+            else if (card.name.Contains("Apply_Poison"))
             {
                 textComponent = card.Find("POISONText")?.GetComponent<TMP_Text>();
                 if (textComponent != null)
@@ -561,9 +551,9 @@ public class Controller : MonoBehaviour
         if (card == null) return;
 
         // Handle the card logic based on its name
-        if (card.name == "Slash") Slash(card);
-        else if (card.name == "Protect") Protect(card);
-        else if (card.name == "Apply_Poison") ApplyPoison(card);
+        if (card.name.Contains("Slash")) Slash(card);
+        else if (card.name.Contains("Protect")) Protect(card);
+        else if (card.name.Contains("Apply_Poison")) ApplyPoison(card);
 
         // Replace the used card after using it
         ReplaceUsedCard(card);  // Add this line to replace the used card
